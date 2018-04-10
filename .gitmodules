@@ -1,0 +1,6 @@
+[submodule "rpms-server"]
+	path = rpms-server
+	url = https://github.com/alentar/rpms-server.git
+[submodule "rpms-admin"]
+	path = rpms-admin
+	url = https://github.com/alentar/rpms-admin.git
